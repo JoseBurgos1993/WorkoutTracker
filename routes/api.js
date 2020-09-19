@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const Transaction = require("../models/Workout.js");
+const Workout = require("../models/workout.js");
 
 router.get("/", (req,res) => {
     console.log("We are here");
