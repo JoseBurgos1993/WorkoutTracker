@@ -1,5 +1,5 @@
 # Unit 17 Nosql Homework: Workout Tracker
-With this project, I was tasked to create an app that tracks daily workouts and exercises.
+With this project, I was tasked to create an app that tracks daily workouts and exercises. This application uses Mongodb and Mongoose as my database framework. The database is stored using MongoDB Atlas. 
 
 The github repository is [here](https://github.com/JoseBurgos1993/WorkoutTracker). The deployed page can be located [here](https://secret-beyond-58160.herokuapp.com/).
 
